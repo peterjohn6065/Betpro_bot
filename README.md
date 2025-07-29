@@ -1,15 +1,11 @@
-# BetPro Network Bot
+# BetPro Telegram Bot
 
-Telegram bot for delivering sports predictions (VFL & Daily Odds).
+A powerful virtual football prediction and sports betting bot built for Telegram.
 
-## Features
-- 🎯 Daily Banker & Combo Tips
-- 💎 VIP Plans (Basic & Elite)
-- 🔄 Martingale Mode (Elite)
-- 🔐 Admin Controls
-
-## Setup
-1. Clone or upload to Fly.io / Render.
-2. Install:
-   ```bash
-   pip install -r requirements.txt
+### Features
+- VFL Signals with Martingale Mode
+- Sports Betting Tips
+- VIP Access System (Basic & Elite)
+- Referral & Promo Code Support
+- Auto-post to Telegram Channel
+- 24/7 Deployment Ready (Fly.io / Render / Railway)
